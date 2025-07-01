@@ -12,7 +12,7 @@ I used this opportunity to explore scalable folder structures, component design,
 ## 🧰 Tech Stack
 
 - ⚛️ **React 19** → *(later downgraded to React 18 due to some peer dependency issues)*
-- ⚡ **Vite** → For fast development builds
+- ⚡ **Vite** → For fast development  builds
 - 🎨 **Tailwind CSS** → For utility-first styling
 - 📦 **ShadCN/UI** → For accessible and customizable components
 - 🎯 **Lucide-react** → For clean and minimal icon sets
